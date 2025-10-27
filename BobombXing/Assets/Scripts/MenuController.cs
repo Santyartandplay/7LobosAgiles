@@ -9,4 +9,5 @@ public class MenuController : MonoBehaviour
     {
         menuPrincipal.SetActive(false); // Oculta todo el menú
     }
+   
 }
