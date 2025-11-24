@@ -1,0 +1,44 @@
+# =============== UNITY ===============
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Packages/com.unity.collab-proxy/
+sysinfo.txt
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.orig
+*.tmp
+
+# Cache de Unity
+*.local
+
+# Archivos personales o locales
+*.env
+*.config
+*.log
